@@ -1,16 +1,16 @@
-## Hi there 👋
+# Estpital - Modern Klinik Web Sitesi
 
-<!--
-**Estpital/estpital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bu, React ve Vite kullanılarak oluşturulmuş bir klinik web sitesidir.
 
-Here are some ideas to get you started:
+## Kurulum
+1. Depoyu klonlayın: `git clone <repo-url>`
+2. Bağımlılıkları yükleyin: `npm install`
+3. Geliştirme sunucusunu başlatın: `npm run dev`
+4. Derleme için: `npm run build`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Netlify Deployment
+- Netlify'de yeni bir site oluşturun.
+- GitHub reposunu bağlayın.
+- Build komutu: `npm run build`
+- Yayın dizini: ` Goku
+- Yayın dizini: `dist`
